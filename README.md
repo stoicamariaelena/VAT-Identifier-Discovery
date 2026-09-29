@@ -1,8 +1,11 @@
 # VAT Identifier Discovery — Can a UK VAT Dataset Be Built From the Open Web?
 
 **Candidate:** Maria-Elena Stoica
+
 **Assignment:** Data Assets Intern, Veridion
+
 **Time spent:** ~10 hours
+
 **How this was worked:** I used AI (Claude) throughout, as allowed by the brief — but I checked everything myself, I did not just accept its answers. For all 40 companies, I did my own searches on Endole, company websites, and Companies House, in parallel with the AI, and compared results. Several corrections in the tracker (for example, the VAT numbers for Caviar Fresh Fish Ltd and Cruden Investments Ltd) came from things I found myself that the AI had missed or got wrong. Every HMRC VAT check in Part 2 was done by hand, by me, on the real HMRC form (it needs a person to fill it in, it can't be automated) — I ran each check myself and wrote down the real result. The SQL query and database were also built and debugged together. The AI helped write the text and the code, and helped me search faster. But the checking, the decisions, and a large part of the research were mine.
 
 ## Summary
